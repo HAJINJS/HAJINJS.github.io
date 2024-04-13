@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-kr" #"en-US"
 title                    : "HAJINJS HOTDEAL"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "슬기로운 쇼핑생활 - 갓성비 상품 추천" # site tagline that appears below site title in masthead
 name                     : "HAJIN"
-description              : "핫딜정보공유소."
+description              : "핫딜정보공유소"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,25 +104,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HAJIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "핫딜정보자격증 1급 보유"
+  location         : # "Somewhere"
+  email            : nicebh123@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "쿠팡"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "ALIEXPRESS"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: "쿠팡상품비교"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "알리상품비교"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
