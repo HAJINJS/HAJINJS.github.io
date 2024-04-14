@@ -128,10 +128,7 @@ author:
     - # label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://link.coupang.com/a/bxSOOs"
-
-sidebar:
-  nav: "docs"
-
+author_profile: true
 # Site Footer
 footer:
   links:
