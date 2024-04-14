@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "슬기로운 쇼핑생활 - 갓성비 상품 추천" # site tagline that appears below site title in masthead
 name                     : "HAJIN"
 description              : "핫딜정보공유소"
-url                      : https://hajinjs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hajinjs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -125,10 +125,9 @@ author:
     - label: "알리상품비교"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - # label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - banner: "<iframe src="https://ads-partners.coupang.com/widgets.html?id=772579&template=carousel&trackingCode=AF5797991&subId=&width=300&height=300&tsource=" width="300" height="300" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" browsingtopics></iframe>"
+      url: "https://link.coupang.com/a/bxSOOs"
 
 # Site Footer
 footer:
