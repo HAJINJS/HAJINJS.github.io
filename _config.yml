@@ -128,6 +128,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - banner: "<iframe src="https://ads-partners.coupang.com/widgets.html?id=772579&template=carousel&trackingCode=AF5797991&subId=&width=300&height=300&tsource=" width="300" height="300" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" browsingtopics></iframe>"
 
 # Site Footer
 footer:
