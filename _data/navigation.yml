@@ -1,12 +1,12 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
+주:
+  - 제목: "HOME"
+    url: "https://HAJINJS.github.io "
+  - title: "♡알리상품비교"
+    url: "https://s.click.aliexpress.com/e/_DE59pjb "
+  # - 제목 : "샘플 컬렉션"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+ {% include nav_list nav="foo" %}
