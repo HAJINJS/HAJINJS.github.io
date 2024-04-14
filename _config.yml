@@ -129,6 +129,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://link.coupang.com/a/bxSOOs"
 
+sidebar:
+  nav: "docs"
+
 # Site Footer
 footer:
   links:
